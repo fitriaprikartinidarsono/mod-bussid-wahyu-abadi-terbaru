@@ -1,0 +1,143 @@
+{
+  "base_url": "https://cdn.jsdelivr.net/gh/fitriaprikartinidarsono/mod-bussid-wahyu-abadi-terbaru@main/wahyu-abadi/",
+  "release_base_url": "https://github.com/fitriaprikartinidarsono/mod-bussid-wahyu-abadi-terbaru/releases/download/v.01/",
+  "categories": ["Wahyu Abadi"],
+  "mods": [
+    {
+      "id": "wa01",
+      "title": "Wahyu Abadi - 01",
+      "category": "Wahyu Abadi",
+      "type": "MOD",
+      "preview_image": "wahyu-abadi-01.webp",
+      "mod_file": "wahyu-abadi-01.bussidmod"
+    },
+    {
+      "id": "wa02",
+      "title": "Wahyu Abadi - 02",
+      "category": "Wahyu Abadi",
+      "type": "MOD",
+      "preview_image": "wahyu-abadi-02.webp",
+      "mod_file": "wahyu-abadi-02.bussidmod"
+    },
+    {
+      "id": "wa03",
+      "title": "Wahyu Abadi - 03",
+      "category": "Wahyu Abadi",
+      "type": "MOD",
+      "preview_image": "wahyu-abadi-03.webp",
+      "mod_file": "wahyu-abadi-03.bussidmod"
+    },
+    {
+      "id": "wa04",
+      "title": "Wahyu Abadi Madura",
+      "category": "Wahyu Abadi",
+      "type": "MOD",
+      "preview_image": "wahyu-madura.webp",
+      "mod_file": "wahyu-madura.bussidmod"
+    },
+    {
+      "id": "wa05",
+      "title": "Wahyu Abadi M18 - 01",
+      "category": "Wahyu Abadi",
+      "type": "MOD",
+      "preview_image": "wahyu-abadi-M18-01.webp",
+      "mod_file": "wahyu-abadi-M18-01.bussidmod"
+    },
+    {
+      "id": "wa06",
+      "title": "Wahyu Abadi M18 - 02",
+      "category": "Wahyu Abadi",
+      "type": "MOD",
+      "preview_image": "wahyu-abadi-M18-02.webp",
+      "mod_file": "wahyu-abadi-M18-02.bussidmod"
+    },
+    {
+      "id": "wa07",
+      "title": "Wahyu Abadi M18 - 03",
+      "category": "Wahyu Abadi",
+      "type": "MOD",
+      "preview_image": "wahyu-abadi-M18-03.webp",
+      "mod_file": "wahyu-abadi-M18-03.bussidmod"
+    },
+    {
+      "id": "wa08",
+      "title": "Wahyu Abadi Semok - 01",
+      "category": "Wahyu Abadi",
+      "type": "MOD",
+      "preview_image": "wahyu-abadi-semok-01.webp",
+      "mod_file": "wahyu-abadi-semok-01.bussidmod"
+    },
+    {
+      "id": "wa09",
+      "title": "Wahyu Abadi Semok - 02",
+      "category": "Wahyu Abadi",
+      "type": "MOD",
+      "preview_image": "wahyu-abadi-semok-02.webp",
+      "mod_file": "wahyu-abadi-semok-02.bussidmod"
+    },
+    {
+      "id": "wa10",
+      "title": "Wahyu Abadi Racing",
+      "category": "Wahyu Abadi",
+      "type": "MOD",
+      "preview_image": "wahyu-abadi-racing.webp",
+      "mod_file": "wahyu-abadi-racing.bussidmod"
+    },
+    {
+      "id": "wa11",
+      "title": "Wahyu Abadi Racing Gayor",
+      "category": "Wahyu Abadi",
+      "type": "MOD",
+      "preview_image": "wahyu-abadi-racing-gayor.webp",
+      "mod_file": "wahyu-abadi-racing-gayor.bussidmod"
+    },
+    {
+      "id": "wa12",
+      "title": "Wahyu Abadi Racing Segitiga",
+      "category": "Wahyu Abadi",
+      "type": "MOD",
+      "preview_image": "wahyu-abadi-racing-segitiga.webp",
+      "mod_file": "wahyu-abadi-racing-segitiga.bussidmod"
+    },
+    {
+      "id": "wa13",
+      "title": "Wahyu Abadi Sound",
+      "category": "Wahyu Abadi",
+      "type": "MOD",
+      "preview_image": "wahyu-abadi-sound.webp",
+      "mod_file": "wahyu-abadi-sound.bussidmod"
+    },
+    {
+      "id": "wa14",
+      "title": "Wahyu Abadi 2 Full Anim Strobo",
+      "category": "Wahyu Abadi",
+      "type": "MOD",
+      "preview_image": "Mod-Wahyu-Abadi-2-New-Full-Anim-Strobo.webp",
+      "mod_file": "Mod-Wahyu-Abadi-2-New-Full-Anim-Strobo.bussidmod"
+    },
+    {
+      "id": "wa15",
+      "title": "Wahyu Abadi 2 Terpal Kotak",
+      "category": "Wahyu Abadi",
+      "type": "LIVERY",
+      "preview_image": "Livery-Barokah-Transport-Kotak-WA.webp",
+      "livery_file": "Livery-Barokah-Transport-Kotak-WA.png"
+    },
+    {
+      "id": "wa16",
+      "title": "Wahyu Abadi 2 Dhe Adi",
+      "category": "Wahyu Abadi",
+      "type": "LIVERY",
+      "preview_image": "Livery-Wahyu-Abadi-2-Dhe-Adi.webp",
+      "livery_file": "Livery-Wahyu-Abadi-2-Dhe-Adi.png"
+    },
+    {
+      "id": "wa17",
+      "title": "Wahyu Abadi 2 Merah Kuning",
+      "category": "Wahyu Abadi",
+      "type": "LIVERY",
+      "preview_image": "Livery-Merah-Kuning-Wahyu-Abadi-2.webp",
+      "livery_file": "Livery-Merah-Kuning-Wahyu-Abadi-2.png"
+    }
+  ]
+}

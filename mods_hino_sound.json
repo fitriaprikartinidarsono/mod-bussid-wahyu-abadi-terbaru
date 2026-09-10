@@ -1,0 +1,167 @@
+{
+  "base_url": "https://cdn.jsdelivr.net/gh/fitriaprikartinidarsono/mod-bussid-wahyu-abadi-terbaru@main/hino-sound-system/",
+  "release_base_url": "https://github.com/fitriaprikartinidarsono/mod-bussid-wahyu-abadi-terbaru/releases/download/v.01/",
+  "categories": ["Hino & Sound System"],
+  "mods": [
+    {
+      "id": "hs01",
+      "title": "Truk Hino 700 Peti Kemas Box",
+      "category": "Hino & Sound System",
+      "type": "MOD",
+      "preview_image": "Hino-700-Peti-Kemas-Box.webp",
+      "mod_file": "Hino-700-Peti-Kemas-Box.bussidmod"
+    },
+    {
+      "id": "hs02",
+      "title": "Truk Hino 700 Bunthek",
+      "category": "Hino & Sound System",
+      "type": "MOD",
+      "preview_image": "Hino-700.webp",
+      "mod_file": "Hino-700.bussidmod"
+    },
+    {
+      "id": "hs03",
+      "title": "Truk Hino 500 NG Muatan Semen",
+      "category": "Hino & Sound System",
+      "type": "MOD",
+      "preview_image": "Hino-500-NG-Muatan-Semen-1280x720.webp",
+      "mod_file": "Hino-500-NG-Muatan-Semen-1280x720.bussidmod"
+    },
+    {
+      "id": "hs04",
+      "title": "Truk Hino 500 NG Muatan Sound System",
+      "category": "Hino & Sound System",
+      "type": "MOD",
+      "preview_image": "Hino-500-NG-Muatan-Sound-System-1280x720.webp",
+      "mod_file": "Hino-500-NG-Muatan-Sound-System-1280x720.bussidmod"
+    },
+    {
+      "id": "hs05",
+      "title": "Truk Hino 700 Provia Muatan Tank",
+      "category": "Hino & Sound System",
+      "type": "MOD",
+      "preview_image": "Hino-700-Provia-Muatan-Tank-1280x720.webp",
+      "mod_file": "Hino-700-Provia-Muatan-Tank-1280x720.bussidmod"
+    },
+    {
+      "id": "hs06",
+      "title": "Truk Hino 500 Dump Terpal",
+      "category": "Hino & Sound System",
+      "type": "MOD",
+      "preview_image": "Truck-Hino-500-Dump-Terpal.webp",
+      "mod_file": "Truck-Hino-500-Dump-Terpal.bussidmod"
+    },
+    {
+      "id": "hs07",
+      "title": "Truk Hino Selfloader Muatan Excavator",
+      "category": "Hino & Sound System",
+      "type": "MOD",
+      "preview_image": "Truck-Hino-Selfloader-Muatan-Excavator.webp",
+      "mod_file": "Truck-Hino-Selfloader-Muatan-Excavator.bussidmod"
+    },
+    {
+      "id": "hs08",
+      "title": "Truk Hino 500 Modifikasi Bumper",
+      "category": "Hino & Sound System",
+      "type": "MOD",
+      "preview_image": "Hino-500-Modifikasi-Bumper-1.webp",
+      "mod_file": "Hino-500-Modifikasi-Bumper-1.bussidmod"
+    },
+    {
+      "id": "hs09",
+      "title": "Truk Hino Lohan Tribal",
+      "category": "Hino & Sound System",
+      "type": "MOD",
+      "preview_image": "Truck-Hino-Lohan-Tribal.webp",
+      "mod_file": "Truck-Hino-Lohan-Tribal.bussidvehicle"
+    },
+    {
+      "id": "hs10",
+      "title": "Truk Hino 500 NG Muatan Motor",
+      "category": "Hino & Sound System",
+      "type": "MOD",
+      "preview_image": "Truck-Hino-500NG-Muatan-Motor.webp",
+      "mod_file": "Truck-Hino-500NG-Muatan-Motor.bussidmod"
+    },
+    {
+      "id": "hs11",
+      "title": "Truk Hino 500 Angkut Sound",
+      "category": "Hino & Sound System",
+      "type": "MOD",
+      "preview_image": "Truck-Hino-500-Angkut-Sound.webp",
+      "mod_file": "Truck-Hino-500-Angkut-Sound.bussidmod"
+    },
+    {
+      "id": "hs12",
+      "title": "Truk Maleo Bawa DJ Sound System",
+      "category": "Hino & Sound System",
+      "type": "MOD",
+      "preview_image": "Truk-Maleo-Bawa-DJ-Sound-System.webp",
+      "mod_file": "Truk-Maleo-Bawa-DJ-Sound-System.bussidmod"
+    },
+    {
+      "id": "hs13",
+      "title": "Truk Canter TE Sound",
+      "category": "Hino & Sound System",
+      "type": "MOD",
+      "preview_image": "Canter-TE-Sound.webp",
+      "mod_file": "Canter-TE-Sound.bussidvehicle"
+    },
+    {
+      "id": "hs14",
+      "title": "Truk Canter TE Sound v2",
+      "category": "Hino & Sound System",
+      "type": "MOD",
+      "preview_image": "Truck-Canter-TE-Sound-v2.webp",
+      "mod_file": "Truck-Canter-TE-Sound-v2.bussidvehicle"
+    },
+    {
+      "id": "hs15",
+      "title": "Truk Thong Thong Angkut Sound Karnaval",
+      "category": "Hino & Sound System",
+      "type": "MOD",
+      "preview_image": "Thong-Thong-Angkut-Sound-Festival.webp",
+      "mod_file": "Thong-Thong-Angkut-Sound-Festival.bussidmod"
+    },
+    {
+      "id": "hs16",
+      "title": "Truk Muatan Sound System LED",
+      "category": "Hino & Sound System",
+      "type": "MOD",
+      "preview_image": "Truk-Muatan-Sound-System-Overload.webp",
+      "mod_file": "Truk-Muatan-Sound-System-Overload.bussidvehicle"
+    },
+    {
+      "id": "hs17",
+      "title": "Truk Hino 500 NG HSD Strobo Sound",
+      "category": "Hino & Sound System",
+      "type": "MOD",
+      "preview_image": "Hino-500-NG-HSD-Strom-Sound.webp",
+      "mod_file": "Hino-500-NG-HSD-Strom-Sound.bussidmod"
+    },
+    {
+      "id": "hs18",
+      "title": "Truk Angkut Sound System Brewog",
+      "category": "Hino & Sound System",
+      "type": "MOD",
+      "preview_image": "NMR71-Angkut-Sound-Audio-Brewog.webp",
+      "mod_file": "NMR71-Angkut-Sound-Audio-Brewog.bussidmod"
+    },
+    {
+      "id": "hs19",
+      "title": "Truk Pick Up Bawa Sound System",
+      "category": "Hino & Sound System",
+      "type": "MOD",
+      "preview_image": "Pick-Up-bawa-Sound-System.webp",
+      "mod_file": "Pick-Up-bawa-Sound-System.bussidvehicle"
+    },
+    {
+      "id": "hs20",
+      "title": "Truk Pick Up Dugem Sound",
+      "category": "Hino & Sound System",
+      "type": "MOD",
+      "preview_image": "Pick-Up-Dugem-Sound-Blackpink.webp",
+      "mod_file": "Pick-Up-Dugem-Sound-Blackpink.bussidvehicle"
+    }
+  ]
+}
